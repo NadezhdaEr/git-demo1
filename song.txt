@@ -8,3 +8,11 @@ Schield by schield
 Side by side
 We're marching into destiny
 
+<<<<<<< HEAD
+=======
+March as one
+Don't look back
+Oden's sons
+Attack!
+
+>>>>>>> feature
